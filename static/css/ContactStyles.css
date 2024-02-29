@@ -1,0 +1,22 @@
+/* styles_contact.css */
+
+/* Importing base styles */
+@import url('styles_default.css');
+
+/* Contact section styles */
+.contact-section {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-section h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.contact-section p {
+    color: #666;
+    margin-bottom: 10px;
+}
